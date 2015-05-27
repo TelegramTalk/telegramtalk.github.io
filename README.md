@@ -1,4 +1,4 @@
-# [Telegram Stickers Directory](https://resir014.github.io/telegram-stickers/)
+# [Telegram Talk Stickers](https://resir014.github.io/telegram-stickers/)
 
 A self-curated list of high-quality stickers for [Telegram Messenger](https://telegram.org/).
 
@@ -10,3 +10,5 @@ A self-curated list of high-quality stickers for [Telegram Messenger](https://te
 ## Disclaimer
 
 This project is in no way affiliated with Telegram Messenger.
+
+## Original Project from [Telegram Stickers Directory](https://github.com/telegram-stickers/telegram-stickers.github.io)
