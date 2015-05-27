@@ -9,10 +9,10 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               "Telegram Stickers Directory"
-tagline:             "A curated list of stickers for Telegram Messenger."
+title:               "Telegram Talk - Stickers"
+tagline:             "A curated list of stickers for Telegram Talk."
 description:         "Telegram Stickers Directory is a website dedicated to curating and promoting beautiful, cute, and fun stickers for Telegram Messenger. It’s run by two individuals who love using stickers just as much as you do, and we’ll do our best to keep this directory updated daily for your enjoyment."
-url:                 "https://telegram-stickers.github.io"
+url:                 "http://sticker.ttalk.me"
 paginate:            15
 paginate_path:       "/page/:num/"
 baseurl:             ""
@@ -26,14 +26,14 @@ sass:
 
 # About/contact
 author:
-  name:              Resi Respati
-  url:               https://resir014.github.io/
-  email:             resir014@gmail.com
+  name:              DevConcert
+  url:               https://sticker.ttalk.me/
+  email:             devconcert@devconcert.net
 
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/resir014/telegram-stickers
+  repo:              https://github.com/telegramtalk/telegramlk.github.io
 
 # Collections
 collections:
